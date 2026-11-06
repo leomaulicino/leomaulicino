@@ -11,7 +11,7 @@ Computer Science student at FIAP, IT Infrastructure Intern at Fundação Vunesp,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomaulicino)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leo.maulicino@gmail.com)
 
-### Technologies & its assets
+### Technologies & Its Assets
 
 **Programming languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
